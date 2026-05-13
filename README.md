@@ -9,7 +9,7 @@ A comprehensive smart university management system designed entirely in Figma �
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📸 App Preview
-![EduMate Overview](app%20overveiw.png)
+![EduMate Overview](app%20overveiw.jpeg)
 
 ## ✨ Features
 | Feature | Description |
